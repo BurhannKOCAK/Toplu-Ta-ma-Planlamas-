@@ -1,6 +1,6 @@
 # Toplu Taşıma Hattı Planlaması - Kırklareli
 
-Bu proje, Kırklareli'nin üç mahallesi için toplu taşıma hattı tasarımını hedefler. Softmax algoritması kullanılarak, farklı kriterler doğrultusunda en uygun güzergah belirlenmiştir. Her mahalle için beş ana kriter değerlendirilmiştir: **nüfus yoğunluğu**, **mevcut ulaşım altyapısı**, **maliyet**, **çevresel etki**, ve **sosyal fayda**.
+Bu proje, Kırklareli'nin üç mahallesi için toplu taşıma hattı tasarımını hedefler. Softmax algoritması kullanılarak, farklı kriterler doğrultusunda en uygun güzergah belirlenmiştir. Her mahalle için beş ana kriter değerlendirilmiştir: **nüfus yoğunluğu**, **mevcut ulaşım altyapısı**, **maliyet**, **çevresel etki** ve **sosyal fayda**.
 
 ## Proje Özeti
 
